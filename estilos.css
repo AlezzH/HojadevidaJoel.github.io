@@ -1,0 +1,19 @@
+:root {
+	--color-fondo: #221426;
+	--color-texto: #F2F2F2;
+	--color-primario: #A480F2;
+	--color-secundario: #445EF2;
+	--color-terciario: #1D1340;
+}
+
+h1 {
+    font-size: 20px;
+    font-style: italic;
+    text-shadow: 8px 8px 5px rgb(0, 0, 0.5);
+}
+h2{
+    font-size: 20px;
+    font-style: unset;
+    text-shadow: 8px 8px 5px rgb(0, 0, 0.5);
+}
+
